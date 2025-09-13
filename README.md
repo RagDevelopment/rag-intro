@@ -136,7 +136,7 @@ Created by **Morton Technologies LLC**, a software development company with 20+ 
 - **Cloud & IoT solutions**
 
 For commercial RAG systems, integrations, or custom software, visit:  
-👉 [Morton Technologies](https://mortontechdev.com) | 👉 [RagDevelopment.com](https://ragdevelopment.com)
+👉 [Morton Technologies](https://mortontech.ai) | 👉 [RagDevelopment.com](https://ragdevelopment.com)
 
 ---
 
