@@ -123,7 +123,7 @@ Want to go further? Try:
 
 - [OpenAI RAG Guide](https://platform.openai.com/docs/guides/retrieval)  
 - [LangChain RAG Concepts](https://python.langchain.com/docs/use_cases/question_answering/)  
-- [Morton Technologies LLC](https://mortontechdev.com) — custom software & AI experts  
+- [Morton Technologies LLC](https://mortontech.ai) — custom software & AI experts  
 - [RagDevelopment.com](https://ragdevelopment.com) — advanced RAG solutions for business  
 
 ---
